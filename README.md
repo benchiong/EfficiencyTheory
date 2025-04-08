@@ -1,4 +1,4 @@
-# 效率理论与市场经济
+# 效率理论与理性市场经济
 
 https://github.com/benchiong/EfficiencyTheory/releases/tag/V1.0
 
